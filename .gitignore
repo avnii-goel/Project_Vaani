@@ -1,13 +1,23 @@
 # Python
 backend/.env
 backend/__pycache__/
+backend/*.pyc
 backend/agent_data.db
 *.pyc
+__pycache__/
 
 # Next.js
 frontend/.env.local
 frontend/.next/
 frontend/node_modules/
+frontend/tsconfig.tsbuildinfo
 
 # Generated files
 welfare_scheme_form_*.html
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Skills
+SKILL (1).md
