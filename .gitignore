@@ -1,0 +1,13 @@
+# Python
+backend/.env
+backend/__pycache__/
+backend/agent_data.db
+*.pyc
+
+# Next.js
+frontend/.env.local
+frontend/.next/
+frontend/node_modules/
+
+# Generated files
+welfare_scheme_form_*.html
